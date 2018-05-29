@@ -1,0 +1,20 @@
+.nod32 img{
+    position: relative; /*hace que muevas relativamente su posición*/
+    top: -50px; /*Pixeles arriba de su posición natural (puede ser negativo)*/
+    left: 500px; /*Pixeles a la izquierda de su posición natural*/
+    right: 10px; /*Pixeles a la derecha de su posición natural*/
+}
+
+
+.panel ul{
+
+position: relative;
+top: 50px;
+
+}
+
+.boton button {
+    position: relative;
+    top: 50px;
+    
+}
